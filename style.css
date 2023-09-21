@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 100vw;
+
+}
+
+
+.header {
+    background-image: url(./London-in-3-Tagen.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.header-container {
+    color: #926239;
+    text-align: center;
+    padding-top: 30%;
+
+
+    
+
+}
+
+.header-h1 {
+    font-size: 2.4em;
+    font-weight: 600;
+    color: #926239;
+    padding: 0px;
+    margin: 10px;
+    
+
+
+
+}
+
+.header-text {
+    margin: 1% 0;
+    
+} 
+.header-button {
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 8px;
+    color: inherit;
+    border: 1px solid #926239;
+    background-color: transparent;
+    margin: 10px;
+    }
+
+    .main-body {
+        font-size: 0.9em;
+        line-height: 1.5;
+        width: 100vw;
+    
+
+    }
+
+.fc-article {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2%;
+    text-align: center;
+
+
+}
+
+.white-block {
+    background-color: #f4f4f4;
+    color: #926239;
+    
+} 
+
+.gold-block {
+    color: #f4f4f4;
+    background-color: #926239;
+
+}
+.inline-container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.inline-article {
+    display: inline-block;
+    max-width: 30%;
+    box-sizing: border-box;
+    padding: 4%; 
+
+
+ 
+}
